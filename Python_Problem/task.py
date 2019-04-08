@@ -3,10 +3,10 @@ import numpy as np
 import pandas as pd
 import jsonlines
 
-consumer_key = "0whAmyhnwWG8VWyI1cl8zlm6U" 
-consumer_secret = "xl79NSpDnkRrHRdeHNVrSCMtci0RSHkaWQYzsnkGxL2gdQXw6f"
-access_key = "3300423356-B2haBg1saChBXW3yv8ZCjoklWXQUdbrYLUFpeRM"
-access_secret = "j9GhsyaXQCMLjDMREcQK0gUir1NopoGO8JwsoJ16DNc3F"
+consumer_key = "" 
+consumer_secret = ""
+access_key = ""
+access_secret = ""
 
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
