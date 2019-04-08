@@ -7,7 +7,7 @@
 
    -- keras/Tensorflow in Virtual Env
 
-- Values to be provided by the user in .ipynb 
+- Values to be provided by the user in CV_Problem_task.ipynb file
 
    -- directory for 'train_image.pkl'
 
