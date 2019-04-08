@@ -41,9 +41,9 @@
    
  - Files Included:
  
-  -- Python_Problem.ipynb (Final Code)
+   -- Python_Problem.ipynb (Final Code)
   
-  -- task.py (Contains all the progress while attempting the problem)
+   -- task.py (Contains all the progress while attempting the problem)
 
 
 
