@@ -23,6 +23,6 @@
    
 - Files Included:
 
-   -- CV_Problem.ipynb  (Final code)
+   -- CV_Problem_task.ipynb  (Final code)
    
    -- task.py (Contains all the progress while attempting the task)
